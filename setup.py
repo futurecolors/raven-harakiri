@@ -17,7 +17,7 @@ class PyTest(TestCommand):
 
 setup(
     name='raven-harakiri',
-    version='0.1',
+    version='0.1.1',
     py_modules=['raven-harakiri'],
     url='http://github.com/futurecolors/raven-harakiri',
     license='MIT',
